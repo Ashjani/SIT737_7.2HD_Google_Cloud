@@ -1,0 +1,13 @@
+{
+  "name": "ash-alijani-sit737-capstone",
+  "version": "1.0.0",
+  "description": "SIT737 Cloud Native Application 7.2HD, Ash Alijani, Deakin University",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Ash Alijani",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
