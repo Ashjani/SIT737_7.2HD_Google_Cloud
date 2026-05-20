@@ -15,11 +15,11 @@ const messages = [
 
 app.get('/', (req, res) => {
   res.json({
-    project:    "SIT737 Cloud Native Capstone — Stage 1",
+    project:    "SIT737 Cloud Native Capstone — Stage 2",
     author:     "Ash Alijani",
     university: "Deakin University",
     unit:       "SIT737 Cloud Native Application Development",
-    version:    "1.0.0"
+    version:    "2.0.0"
   });
 });
 
